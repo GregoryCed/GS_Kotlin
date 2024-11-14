@@ -6,7 +6,7 @@
     android:orientation="vertical">
 
     <TextView
-        android:id="@+id/textViewItemTitulo"
+        android:id="@+id/textViewItemGreg"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -14,10 +14,10 @@
         android:layout_weight="1"
         android:textSize="18sp"
         android:textStyle="bold"
-        tools:text="Título" />
+        tools:text="Gregory Cedraz Araujo - RM 94404" />
 
     <TextView
-        android:id="@+id/textViewItemDescricao"
+        android:id="@+id/textViewItemAnne"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -25,6 +25,5 @@
         android:layout_weight="1"
         android:textSize="18sp"
         android:textStyle="bold"
-        tools:text="Descrição" />
-
+        tools:text="Anne de Oliveira Rezende - RM 94580" />
 </LinearLayout>
